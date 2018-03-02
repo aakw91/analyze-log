@@ -7,7 +7,7 @@
    1. SQL Injections
    2. File Inclusions
    3. Webshell
-   4. Illegal Access
+   4. Illegal Access (HTTP Status code 401, 403)
 
    After successful detection, this python script will generate 4 files:
    1. sqli.txt (for SQL Injections)
