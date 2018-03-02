@@ -21,7 +21,7 @@ Steps to Execute
    - analyze_script.py CTF1.log
 
 5. After entering the commands, wait for the following messages to be printed out to notify that the checks are completed:
-   - Analyzing of "<file name.log>" is Completed.
+   - Analyzing of "<xxx.log>" is Completed.
    - SQL Injection Printing Completed in "sqli.txt".
    - File Inclusion Printing Completed in "fileinclusion.txt".
    - Web Shell Printing Completed in "webshell.txt".
