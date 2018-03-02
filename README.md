@@ -1,5 +1,5 @@
 # User Manual (analyze_script.py)
-Brief Info
+
 1. This python script (analyze_script.py) was built on Python Version 3.4.3.
    Download link for Python Version 3.4.3: https://www.python.org/downloads/
 
@@ -13,7 +13,6 @@ Brief Info
    2. fileinclusion.txt (for File Inclusion)
    3. webshell.txt (for Webshell)
 
-Steps to Execute
 3. Open a command prompt (by holding shift + right click in the specific folder that both analyze_script.py and the log file is) 
    and the command prompt will be launched.
 
